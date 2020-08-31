@@ -6,8 +6,8 @@ On that account, the goal of this project is to develop an uplift model that han
 ## Getting Started
 Here we provide a little guidance on how to review our results.
 First of all, in the Model_Code file, you will find the code to our model building, presdicting, and curve drawing.
-In the Paper_Image file, the images needed for our final paper is included, and the paper can be found in the paper folder.
-Last but not least, the dataset we used for our project is also uploaded. Enjoy!
+In the Paper folder, the final paper and the images needed for it are included. 
+Nevertheless, the dataset is condifential, so it will not be uploaded here. Enjoy!
 
 ## Authors
 
